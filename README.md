@@ -104,16 +104,12 @@ It is built to support **data-driven decision-making** for marketing and busines
 ## 👨‍💻 Author
 
 **Pranav Vijay Dixit**
-Marketing Business Analyst
+Business Analyst
 
 🔗 Tableau Profile: https://public.tableau.com/app/profile/pranav2103
 🔗 LinkedIn: https://www.linkedin.com/in/pranavdixitofficial/
 
 ---
 
-## ⭐ Support
 
-If you found this project useful, consider giving it a ⭐ on GitHub!
-
----
 
