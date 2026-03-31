@@ -1,4 +1,4 @@
-# 📊 Nikai KSA Performance Dashboard (Tableau)
+# 📊 Ecommerce Performance Dashboard (Tableau)
 
 ## 🔗 Live Dashboard
 
