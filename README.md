@@ -107,7 +107,7 @@ It is built to support **data-driven decision-making** for marketing and busines
 Marketing Business Analyst
 
 🔗 Tableau Profile: https://public.tableau.com/app/profile/pranav2103
-🔗 LinkedIn: (Add your link here)
+🔗 LinkedIn: https://www.linkedin.com/in/pranavdixitofficial/
 
 ---
 
